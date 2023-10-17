@@ -12,6 +12,7 @@ int main(int argc, char* argv[]) {
 
   // TODO: Validate that the number of arguments is correct.
   // If not, print an error message and return a non-zero value.
+
 if(arguments.size()<3){
   std::cout << "error, exiting"<< "\n";
   return 1;
@@ -27,6 +28,7 @@ if(arguments.size()<3){
   // TODO: Use cout to print output following the pattern
   // Your order: A *PROTEIN* sandwich on *BREAD* with *CONDIMENT*.
   // on its own line.
+  
 std::cout << "your order: A " << protein << " sandwich on " 
 << bread << " with " << condiment; 
   return 0;
