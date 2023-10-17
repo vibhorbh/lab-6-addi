@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// David Diaz
+// ddiazjr929@csu.fullerton.edu
+// @Dav-929
+// Partners @vibhorhb
 
 #include <iostream>
 #include <string>
